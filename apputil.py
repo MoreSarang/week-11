@@ -2,7 +2,7 @@
 apputil.py
 ----------
 Implements helper functions for K-Means clustering exercises.
-Follows PEP-8 style guidelines.
+
 """
 
 from time import time
